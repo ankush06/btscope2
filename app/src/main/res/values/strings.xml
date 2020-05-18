@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="scan_mic_button">Scan Mico</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="display_message"></string>
+    <string name="input_scan">Input</string>
+    <string name="output_scan">Output</string>
+    <string name="referesh_scan">Refresh</string>
+
+</resources>
